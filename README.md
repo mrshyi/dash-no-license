@@ -9,6 +9,8 @@ This patch will fully unlock dash for you.
 
 You **don't** need to disable SIP in order to make this work.
 
+# NOT WORKING FOR Dash 6.4.0!!!
+
 ## Usage
 
 1. Download the precompiled [insert_dylib](https://github.com/Tyilo/insert_dylib)  binary here ([x86_64](https://github.com/shinohara-rin/insert_dylib/releases/download/uwu/insert_dylib))([aarch64](https://github.com/shinohara-rin/insert_dylib/releases/download/owo/insert_dylib)), maybe add to PATH
